@@ -20,6 +20,18 @@ npm ci
 npm start
 ```
 
+## Testing
+
 ```
 npm test
+```
+
+## Linting & Formatting
+
+```
+npm format
+```
+
+```
+npm lint
 ```
