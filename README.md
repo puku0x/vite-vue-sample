@@ -20,6 +20,10 @@ npm ci
 npm start
 ```
 
+```
+npm run build
+```
+
 ## Testing
 
 ```
@@ -29,9 +33,9 @@ npm test
 ## Linting & Formatting
 
 ```
-npm format
+npm run format
 ```
 
 ```
-npm lint
+npm run lint
 ```
